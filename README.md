@@ -17,7 +17,7 @@ The primary objective of this project was to gain hands-on experience with AWS n
 
 ## Architecture Diagram
 
-![Architecture Diagram](./Architecture-diagram-VPC.png)
+![Architecture Diagram](./architecture-diagram/Architecture-diagram-VPC.png)
 
 ---
 
